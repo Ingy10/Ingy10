@@ -2,9 +2,15 @@
 
 ## About Me
 
-I'm an enthusiastic learner with a diverse background and a passion for solving problems. My journey began as a high-level soccer player, which instilled in me an obsession for continuous skill building and personal development. After studying Economics at Brock University and gaining experience as a data analyst and in various management roles within the hospitality and tourism sectors, I discovered a fascination for quantitative investing. This led me to an ongoing four-year project exploring the ins and outs of the financial world. Through managing a large database on my own. I quickly discovered the benefits of learning to code and working with AI to simplify my tasks and create an efficient workflow.
+I'm a passionate and driven software developer with a strong foundation in problem-solving, analytical thinking, and continuous learning. My journey began in competitive sports, where I developed a deep appreciation for discipline and skill-building. Over time, my interests evolved from the physical to the technical, leading me to pursue software development as a career.
 
-Beyond my professional interests, I'm passionate about surfing, snowboarding and all things outdoors, which has taken me around the world in pursuit of the best waves and mountains. These experiences have enriched my understanding of different cultures. Over time, as my interests shifted from physical to mental challenges, I found coding to be a perfect fit for my problem-solving nature.
+I hold a **Diploma in Software Engineering from BrainStation, Canada**, where I built several full-stack applications and honed my expertise in modern web technologies. I also completed an intensive **16-week Data Science and Analytics program with M2M Tech**, solidifying my ability to work with data-driven applications.
+
+Recently, I **completed a 3-month paid internship as a Software Developer at Infonancial**, a fin-tech company specializing in **Loan Origination Software 2.0**. During this internship, I independently built the entire **Configurations section** of the LOS 2.0 platform, resolved numerous bugs, and optimized the system while collaborating closely with the development team. I actively participated in **agile stand-ups (3x per week)** and managed tasks using **JIRA** for efficient project tracking.
+
+Currently, my focus is on developing a **Wine Database Knowledge and Management App** designed for restaurants. This app will help train staff on the wine list and provide quick access to essential wine details, enabling them to confidently enhance the guest experience and drive wine sales.
+
+Beyond coding, I am passionate about **surfing, snowboarding, and exploring the outdoors**. These experiences have broadened my perspective and reinforced my adaptability—an essential skill in software development.
 
 ## Education
 
@@ -23,13 +29,16 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-FF6B00?style=for-the-badge&logo=prime&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6B6B?style=for-the-badge&logo=multer&logoColor=white)
 
@@ -41,9 +50,7 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-### Testing Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Deployment & Hosting
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -71,11 +78,13 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 
 ## What I'm Learning
 
-I am currently expanding my expertise in data science and analytics through a 16-week program with M2M Tech, where I'm learning to integrate coding with data analytics to create impactful solutions. This course is deepening my understanding of how to harness data for meaningful insights, combining my coding skills with advanced analytical techniques. Additionally, I am broadening my programming knowledge by learning computer science fundamentals as well as languages like Python and C through the Harvard CS50 course, which is enhancing my problem-solving abilities and technical versatility. Lastly, I am diving into Angular and TypeScript creating new projects in this framwork.  Check out my latest Angular project here: [Homes App](https://github.com/Ingy10/homes-app)
+I am currently broadening my programming knowledge by learning computer science fundamentals as well as languages like Python and C through the Harvard CS50 course, which is enhancing my problem-solving abilities and technical versatility. Additionally, I am diving deeper into Angular, PrimeNG and TypeScript, creating new projects in this framework. Check out my latest Angular project here: [Wine App](https://github.com/Ingy10/wine-app-frontend)
 
 ## Career Goals
 
-Upon graduation, I am seeking a rewarding position that allows me to leverage my skills in software engineering and contribute meaningfully to an organization. My career shift was driven by a desire to create a stable and fulfilling life for my family, and I am eager to explore opportunities in various fields.
+With my recent experience in both **fin-tech software development** and **data analytics**, I am eager to further my career in **full-stack development, software engineering, or data-driven applications**. My goal is to contribute to innovative projects that merge **technology, data, and user-centric design** to create impactful solutions. I thrive in **collaborative environments** where I can continue refining my technical skills while delivering high-quality software solutions.
+
+I am actively seeking new opportunities where I can **leverage my expertise, problem-solving abilities, and passion for technology** to make meaningful contributions to a forward-thinking development team.
 
 ## Let's Connect!
 
