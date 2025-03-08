@@ -58,7 +58,7 @@ Before BrainStation, I studied Economics at Brock University, where I developed 
 
 ## Projects
 
-- **Wine App (In Progress):** This app will help train staff on the wine list and provide quick access to essential wine details, enabling them to confidently enhance the guest experience and drive wine sales.
+- **Wine App (In Progress):** This app will help train staff on the wine list and provide quick access to essential wine details, enabling them to confidently enhance the guest experience and drive wine sales. Built with Spring Boot, Java, Angular 19, PrimeNG 19 and TypeScript.
 - [Wine App Client](https://github.com/Ingy10/wine-app-frontend)
 - [Wine App Server](https://github.com/Ingy10/wine-app-backend)
 
