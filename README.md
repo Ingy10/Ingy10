@@ -14,11 +14,11 @@ Beyond coding, I am passionate about **surfing, snowboarding, and exploring the 
 
 ## Education
 
-I recently completed a Diploma in Software Engineering at BrainStation, Canada. During my time there, I developed several full-stack applications, including my capstone project, Food Market. This application assists users in comparing grocery store prices to market averages, helping them avoid price gouging. The app leverages data from monthly CPI reports across Canadian provinces and allows users to log prices for the items they buy. These prices are stored in a personal database, enabling users to build a customized record of their usual purchases and the prices they typically pay.
+I recently completed a Diploma in Software Engineering at BrainStation, Canada, where I developed full-stack applications, including my capstone project, *Food Market*. This app helps users compare grocery store prices to market averages, leveraging CPI data from Canadian provinces and allowing users to track their grocery expenses.
 
-After completing my BrainStation diploma, I immediately began a 16-week Data Science and Analytics program with M2M Tech based in Calgary, Alberta. This program will conclude with an industry-led project for which I will receive a stipend. I plan to leverage my coding skills to combine with data, making me a highly skilled and valuable candidate for any employer looking for a well-rounded, technical, and analytical team player.
+Afterward, I completed a 16-week Data Science and Analytics program with M2M Tech in Calgary, which culminated in an industry-led project. This program helped me combine my coding skills with data analysis, further enhancing my technical and analytical abilities.
 
-Prior to BrainStation, I studied Economics at Brock University, where I developed a strong foundation in data analysis and an understanding of market dynamics.
+Before BrainStation, I studied Economics at Brock University, where I developed a strong foundation in data analysis and market dynamics.
 
 ## Skills
 
@@ -58,6 +58,10 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 
 ## Projects
 
+- **Wine App (In Progress):** This app will help train staff on the wine list and provide quick access to essential wine details, enabling them to confidently enhance the guest experience and drive wine sales.
+- [Wine App Client](https://github.com/Ingy10/wine-app-frontend)
+- [Wine App Server](https://github.com/Ingy10/wine-app-backend)
+
 - **Food Market (Capstone Project):** An innovative grocery store price comparison app that enables users to compare item prices against market averages and build a personal database to track their usual purchases and prices over time. Built with React, JavaScript, HTML, SASS, CSS, and MySQL, the app leverages React, Node.js, Express, Vite and React-Router-DOM for seamless functionality. It will utilize Capacitor for offline use and app store deployment. As the lead developer, I was responsible for both the front-end and back-end development, employing tools like Git and Axios throughout the project.
 - [Food Market Client](https://github.com/Ingy10/kyle-ingham-food-market)
 - [Food Market Server](https://github.com/Ingy10/kyle-ingham-food-market-server)
@@ -78,7 +82,7 @@ Prior to BrainStation, I studied Economics at Brock University, where I develope
 
 ## What I'm Learning
 
-I am currently broadening my programming knowledge by learning computer science fundamentals as well as languages like Python and C through the Harvard CS50 course, which is enhancing my problem-solving abilities and technical versatility. Additionally, I am diving deeper into Angular, PrimeNG and TypeScript, creating new projects in this framework. Check out my latest Angular project here: [Wine App](https://github.com/Ingy10/wine-app-frontend)
+I am currently broadening my programming knowledge by **learning computer science fundamentals** as well as languages like **Python and C through the Harvard CS50 course,** which is enhancing my problem-solving abilities and technical versatility. Additionally, I am diving deeper into Angular, PrimeNG and TypeScript, creating new projects in this framework. **Check out my latest Angular project here: [Wine App](https://github.com/Ingy10/wine-app-frontend)**
 
 ## Career Goals
 
